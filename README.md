@@ -19,3 +19,14 @@ Calcuation of Basic statistical formulas using Java application:
 4.Standard Deviation 
 5.Variance
 
+Calculation of Mathematical formulas:
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Modulus
+6.Simple Interest
+7.Compound Interest
+8.Square
+9.Cube
+
